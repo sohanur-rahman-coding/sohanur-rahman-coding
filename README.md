@@ -76,16 +76,12 @@ const sohan = {
 ### 📊 GitHub Stats & Growth
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohanur-rahman-coding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanur-rahman-coding&theme=tokyonight&hide_border=true&background=0D1117" alt="" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohanur-rahman-coding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanur-rahman-coding&theme=tokyonight&hide_border=true&background=0D1117" alt="Sohanur's Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohanur-rahman-coding&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanur-rahman-coding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanur-rahman-coding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" width="70%" />
 </p>
 
 
