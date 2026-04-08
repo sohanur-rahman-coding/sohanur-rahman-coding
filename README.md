@@ -58,6 +58,7 @@ const sohan = {
   goal: "Top 1% Developer 🚀"
 };
 ```
+---
 
 ### 🛠️ Tech Stack
 
